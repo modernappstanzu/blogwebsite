@@ -52,10 +52,10 @@ id = "UA-00000000-0"
 # Language configuration
 
 [languages]
-[languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
-languageName ="English"
+[languages.es]
+title = "Español"
+description = "Blog en Español"
+languageName ="Español"
 # Weight used for sorting.
 weight = 1
 [languages.no]
